@@ -7,4 +7,3 @@ for n in range(100):
         print(n, "buzz.")
     else:
         print(n)
-        n = n
